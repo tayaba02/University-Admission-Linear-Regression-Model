@@ -1,3 +1,2 @@
 # University-Admission-Linear-Regression-Model
-This dataset includes various information like GRE score, TOEFL score, university rating, SOP (Statement of Purpose), LOR (Letter of Recommendation), CGPA, research and chance of admit. In this dataset, 400 entries are included. 
-I conducted data exploration analysis, for instance finding the coorelation between different factors related to university admit and university acceptance. I also developed linear regression model for university acceptance prediction 
+In this study, I undertook a detailed data exploration analysis to discern the correlation between various factors associated with student admission applications and their corresponding university acceptances. I constructed a linear regression model to forecast university admission outcomes, taking into account parameters like GRE score, TOEFL score, university rating, Statement of Purpose (SOP), Letter of Recommendation (LOR), and CGPA.
